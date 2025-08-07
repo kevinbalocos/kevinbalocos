@@ -20,7 +20,7 @@ const jade: Developer = {
   experience: "3+ years in digital product design",
 technologies: ["JavaScript", "CSS", "Python", "PHP",
 "HTML5", "Tailwind CSS", "Bootstrap", "React (Vite)",
-"Node.js", "Express.js", "CodeIgniter 3", "CodeIgniter 4",
+"Node.js", "Express.js", "CodeIgniter 3",
  "MySQL", "MariaDB", "MongoDB", "WebSockets", "Socket.IO",
 "Ratchet", "Git", "GitHub", "REST API Development", "Chart.js"],
   currentFocus: ["Design Systems", "Web3 UX", "AI-Driven Interfaces"],
