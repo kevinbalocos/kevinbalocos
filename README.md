@@ -1,7 +1,3 @@
-# 👋 Hello, I'm Jade Kevin Balocos
-
-
-
 <div align="center">
   
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6C63FF?style=for-the-badge&logoColor=white)](https://kevinbalocos.github.io/portfolio-v1/)
@@ -18,37 +14,19 @@
 
 <img align="right" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-```typescript
+```
 
 const jade: Developer = {
   name: "Jade Kevin Balocos",
-  role: ["UI/UX Designer", "Full-Stack Developer", "Creative Technologist"],
+  role: ["UI/UX Designer", "Full-Stack Developer",
+"Creative Technologist"],
   location: "Santa Rosa, Philippines 🇵🇭",
   experience: "3+ years in digital product design",
- technologies: [
-  "JavaScript",
-  "CSS",
-  "Python",
-  "PHP",
-  "HTML5",
-  "Tailwind CSS",
-  "Bootstrap",
-  "React (Vite)",
-  "Node.js",
-  "Express.js",
-  "CodeIgniter 3",
-  "CodeIgniter 4",
-  "MySQL",
-  "MariaDB",
-  "MongoDB",
-  "WebSockets",
-  "Socket.IO",
-  "Ratchet",
-  "Git",
-  "GitHub",
-  "REST API Development",
-  "Chart.js",
-],
+technologies: ["JavaScript", "CSS", "Python", "PHP",
+"HTML5", "Tailwind CSS", "Bootstrap", "React (Vite)",
+"Node.js", "Express.js", "CodeIgniter 3", "CodeIgniter 4",
+ "MySQL", "MariaDB", "MongoDB", "WebSockets", "Socket.IO",
+"Ratchet", "Git", "GitHub", "REST API Development", "Chart.js"],
   currentFocus: ["Design Systems", "Web3 UX", "AI-Driven Interfaces"],
   lifePhilosophy: "Code with purpose, design with empathy"
 };
