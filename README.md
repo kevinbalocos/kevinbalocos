@@ -1,21 +1,17 @@
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6C63FF?style=for-the-badge&logoColor=white)](https://kevinbalocos.github.io/portfolio-v1/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jade-kevin-balocos-51b13b358/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinbalocos@gmail.com)
-[![Resume](https://img.shields.io/badge/📄_Resume-FF6B35?style=for-the-badge&logoColor=white)](#)
-![Profile Views](https://komarev.com/ghpvc/?username=kevinbalocos&style=for-the-badge&color=6C63FF)
-
-
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-58A6FF?style=for-the-badge&logoColor=white)](https://kevinbalocos.github.io/portfolio-v1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jade-kevin-balocos-51b13b358/)
+[![Email](https://img.shields.io/badge/Email-58A6FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinbalocos@gmail.com)
+[![Resume](https://img.shields.io/badge/📄_Resume-58A6FF?style=for-the-badge&logoColor=white)](#)
+![Profile Views](https://komarev.com/ghpvc/?username=kevinbalocos&style=for-the-badge&color=58A6FF)
 </div>
 
 ---
 
-
 <img align="right" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
 ```Typescript
-
 const jade: Developer = {
   name: "Jade Kevin Balocos",
   role: ["UI/UX Designer", "Full-Stack Developer",
@@ -33,11 +29,7 @@ technologies: ["JavaScript", "CSS", "Python", "PHP",
 ```
 
 <div align="center">
-
-
-
 + Coffee consumption: ☕ ☕ ☕ ☕ ☕ per day
 
 ---
-
 </div>
