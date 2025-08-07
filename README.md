@@ -14,7 +14,7 @@
 
 <img align="right" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-```
+```Typescript
 
 const jade: Developer = {
   name: "Jade Kevin Balocos",
