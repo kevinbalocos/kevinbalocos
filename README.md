@@ -20,7 +20,7 @@ const jade: Developer = {
   name: "Jade Kevin Balocos",
   role: ["UI/UX Designer", "Full-Stack Developer",
 "Creative Technologist"],
-  location: "Santa Rosa, Philippines 🇵🇭",
+  location: "Philippines",
   experience: "3+ years in digital product design",
 technologies: ["JavaScript", "CSS", "Python", "PHP",
 "HTML5", "Tailwind CSS", "Bootstrap", "React (Vite)",
