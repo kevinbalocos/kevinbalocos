@@ -1,11 +1,6 @@
 # 👋 Hello, I'm Jade Kevin Balocos
 
-<div align="center">
-  
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=UI%2FUX+Designer;Programmer;Data+Scientist)
 
-
-</div>
 ![Profile Views](https://komarev.com/ghpvc/?username=kevinbalocos&style=for-the-badge&color=6C63FF)
 
 <div align="center">
