@@ -13,7 +13,7 @@
 
 ```Typescript
 const jade: Developer = {
-  name: "Jade Kevin Balocos",
+  name: "Jade Kevin Balocos Calalo",
   role: ["UI/UX Designer", "Full-Stack Developer",
 "Creative Technologist"],
   location: "Philippines",
