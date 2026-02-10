@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-58A6FF?style=for-the-badge&logoColor=white)](piesway.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-58A6FF?style=for-the-badge&logoColor=white)](https://piesway.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jade-kevin-balocos-51b13b358/)
 [![Email](https://img.shields.io/badge/Email-58A6FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinbalocos@gmail.com)
 [![Resume](https://img.shields.io/badge/📄_Resume-58A6FF?style=for-the-badge&logoColor=white)](#)
